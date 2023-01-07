@@ -1,7 +1,7 @@
 # #boraCodar ~Desafio01
 > Desenvolvido por :man_technologist: ```@Ruan-Narici```.
 
-| :sparkles: Nome | Mata Toupeiras |
+| :sparkles: Nome | MediaPlayer |
 | - | - |
 | :checkered_flag: INICIADO EM | 07/01/2023 |
 | 	:white_check_mark: FINALIZADO EM | 07/01/2023 |
